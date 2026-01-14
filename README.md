@@ -1,6 +1,3 @@
-# data-science-learning
-Learning projects in Data Science using Python (pandas, numpy, matplotlib, Jupyter)
-
 # Data Science Learning
 
 This repository contains my learning projects as I study data science and data analysis using Python (pandas, numpy, matplotlib, Jupyter).
